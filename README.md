@@ -15,7 +15,7 @@ A trove of carefully curated resources and links (on the topics of software, pla
 
 [MONTRÉAL.AI ACADEMY: ARTIFICIAL INTELLIGENCE 101 FIRST WORLD-CLASS OVERVIEW OF AI FOR ALL](http://www.montreal.ai/ai4all.pdf)
 
- [OpenAI blog](https://blog.openai.com/)
+ [OpenAI blog](https://openai.com/blog)
 
 [AI thinks like a corporation—and that’s worrying - Open Voices](https://www.economist.com/open-future/2018/11/26/ai-thinks-like-a-corporation-and-thats-worrying)</dt>
 

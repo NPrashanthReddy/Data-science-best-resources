@@ -582,6 +582,8 @@ A trove of carefully curated resources and links (on the topics of software, pla
  [How to Make A Website in 2018 - Web Hosting Guide | WHSR](https://www.webhostingsecretrevealed.net/web-hosting-beginner-guide/) 
 
  [jhu-ep-coursera/fullstack-course4: Example code for HTML, CSS, and Javascript for Web Developers Coursera Course](https://github.com/jhu-ep-coursera/fullstack-course4)
+ 
+ [Free JavaScript Tutorial - Scaler](https://www.scaler.com/topics/javascript/) 
 
 ## LaTeX, Markdown, reST
 
@@ -720,6 +722,9 @@ A trove of carefully curated resources and links (on the topics of software, pla
  [A Complete Tutorial to Learn Data Science with Julia from Scratch](https://www.analyticsvidhya.com/blog/2017/10/comprehensive-tutorial-learn-data-science-julia-from-scratch/)</dt>
 
 ## Machine Learning
+
+### Experiment tracking
+[ML Experiment Tracking: What It Is, Why It Matters, and How to Implement It](https://neptune.ai/blog/ml-experiment-tracking)
 
 ### Fairness and bias
 [Evaluating machine learning models for fairness and bias](https://towardsdatascience.com/evaluating-machine-learning-models-fairness-and-bias-4ec82512f7c3)
@@ -1108,7 +1113,9 @@ A trove of carefully curated resources and links (on the topics of software, pla
  [Data Manipulation with dplyr | R-bloggers](https://www.r-bloggers.com/data-manipulation-with-dplyr/)
 
  [Data Science and Machine Learning Bootcamp with R | Udemy](https://www.udemy.com/data-science-and-machine-learning-bootcamp-with-r/learn/v4/overview)
-
+ 
+ [Explore R | Discover libraries, source code, top authors, trending discussions | kandi](https://kandi.openweaver.com/explore/r)
+ 
  [ggplot2-cheatsheet.pdf](https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
 
  [Machine Learning A-Z™: Download Practice Datasets - SuperDataScience - Big Data | Analytics Careers | Mentors | Success](https://www.superdatascience.com/machine-learning/)
